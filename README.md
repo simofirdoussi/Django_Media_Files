@@ -3,7 +3,7 @@
 <p align="center">
     
 
-  <h3 align="center">Mangnig Mediafiles</h3>
+  <h3 align="center">Mangnig Media files in Django</h3>
 
   <p align="center">
     Tutorial on how to upload files(images, pfd..) to your django application.
