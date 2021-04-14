@@ -3,7 +3,7 @@
 <p align="center">
     
 
-  <h3 align="center">Mangnig Medi files: how to uploa a file to your django application</h3>
+  <h3 align="center">Mangnig Mediafiles</h3>
 
   <p align="center">
     An easy django documentation
